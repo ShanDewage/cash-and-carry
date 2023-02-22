@@ -1,0 +1,30 @@
+.bg-img {
+    background: url('/public/images/home.jpg') center center/cover no-repeat;
+     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+     min-height: 380px;
+ 
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size:cover;
+     height: 100vh;
+     z-index: -1000;
+   
+
+}
+
+.hero-container{
+   
+  top: 40%;
+  align-items: center;
+  height: 100vh;
+  margin-left: 50px;
+  position: absolute;
+  
+}
+
+ 
+   
+
+
+ 
