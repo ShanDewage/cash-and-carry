@@ -9,20 +9,44 @@
      background-size:cover;
      height: 100vh;
      z-index: -1000;
-   
-
+     background-position: top 10% right 0;
 }
 
 .hero-container{
-   
-  top: 40%;
+  top: 25%;
   align-items: center;
-  height: 100vh;
   margin-left: 50px;
   position: absolute;
-  
 }
 
+.hero-container h1{
+  width: 500px;
+ color: #dff1fd;
+ font-size: 50px;
+ line-height: 1.0;
+ }
+
+ .hero-container h3{
+  width: 500px;
+ font-size: 35px;
+ color: #FF8C00;
+ }
+
+.hero-container p{
+ width: 400px;
+color: #F5FFFA;
+text-align: justify;
+text-justify: inter-word;
+}
+
+.btn-shop{
+  background-color: #FF8C00;
+  color: #fff;
+  padding: 14px 16px;
+  border-radius: 10px;
+  width: 100px;
+  margin-top: 15px;
+}
  
    
 
