@@ -29,8 +29,7 @@
 .nav-links:hover{
     color: #ffffff;
     background-color: #FFA500;
-    border-radius: 10px;
-    
+    border-radius: 10px;   
 }
 
 .btn-signup{
@@ -38,6 +37,7 @@
     background-color: #FFA500;
     padding: 12px 14px;
     border-radius: 10px;
+    font-size: 15px;
 }
 
 .btn-signup:hover{
@@ -118,7 +118,7 @@
       font-size: 2rem;
     }
   
-    .nav-links-mobile {
+    .nav-links-signup {
       display: block;
       text-align: center;
       margin: 2rem auto;
@@ -134,7 +134,7 @@
       border-radius: 10px;
     }
   
-    .nav-links-mobile:hover {
+    .nav-links-signup:hover {
       background: #FFA500;
       color: #ffffff;
       transition: 250ms;
